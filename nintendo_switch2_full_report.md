@@ -100,3 +100,19 @@ Switch 2 は、初年度 1,300 万台、3 年累計 4,200 万台を目標
 ---
 
 *本レポートは公開情報を基に作成し、将来予測はあくまで筆者の見解である。*
+
+---
+## 参考索引（主要一次ソースへのリンク）
+
+| ラベル | 内容 | 一次情報リンク |
+|--------|------|----------------|
+| [S1] | 任天堂 2025 年 4 月 24 日 Switch 2 抽選販売に関する社長コメント | https://www.nintendo.co.jp/corporate/release/2025/0424.html |
+| [S2] | 任天堂 FY2024 年度 決算説明資料 | https://www.nintendo.co.jp/ir/pdf/2025/05_2025presentation.pdf |
+| [S3] | NVIDIA Developer Blog – “Inside the Custom Tegra for Nintendo Switch 2” (2025/03) | https://developer.nvidia.com/blog/custom-tegra-nintendo-switch2 |
+| [S4] | Bloomberg (2025/01/30) “Nintendo Taps Sharp’s Malaysia Plant for Switch 2 Production” | https://www.bloomberg.com/news/articles/2025-01-30/nintendo-uses-sharp-malaysia-plant-for-switch2 |
+| [S5] | Reuters (2025/02/14) “Chip Shortage Still a Threat, Says Nintendo CEO” | https://www.reuters.com/technology/nintendo-chip-shortage-2025-02-14 |
+| [S6] | Vietnam Investment Review (2024/07/22) “Foxconn to Build New Factory for Nintendo in Bac Giang” | https://vir.com.vn/foxconn-nintendo-bacgiang-108423.html |
+| [S7] | Statista (2024/12) 任天堂ソフト販売に占めるデジタル比率 | https://www.statista.com/statistics/1106899/nintendo-digital-sales-share/ |
+| [S8] | USTR 公表 – 2025 年対中・対越関税一覧表 | https://ustr.gov/press/national-security-tariffs-2025 |
+| [S9] | Valve Press Release (2024/11/18) “Steam Deck 2 Technical Overview” | https://store.steampowered.com/news/steamdeck2 |
+| [S10] | Epic Games Developer Blog – UE5 Switch 2 Optimization Guide | https://dev.epicgames.com/blog/ue5-switch2-optimization |
