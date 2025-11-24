@@ -35,7 +35,7 @@ date: "2025-06"
 
 ## 2. 全体フローと要件確認
 ### 2-1 ハードウェア要件
-1. **GPU**: GeForce GTX 1650 4 GB (CC 8.9) ／ RTX 1650 Super 4GB (CC 7.5) ※無印でも可 以上（Compute Capability 7.5+ 推奨）  
+1. **GPU**: GTX 1650 20GB (CC 8.9) ／ RTX 1650 Super 4GB (CC 7.5) ※無印でも可 以上（Compute Capability 7.5+ 推奨）  
 2. **RAM**: 16 GB 以上（推奨 32 GB）  
 3. **ストレージ**: NVMe SSD 1 TB 以上  
 
@@ -370,7 +370,7 @@ import torch, tensorflow as tf
 print("Torch CUDA available:", torch.cuda.is_available())
 print("TensorFlow GPUs:", tf.config.list_physical_devices('GPU'))
 ```
-両方とも **True** と GPU 名（GeForce GTX 1650／RTX 1650 など）が表示されれば成功である。
+両方とも **True** と GPU 名（GTX 1650／RTX 1650 など）が表示されれば成功である。
 
 ### 6-4 ベンチマーク (任意)
 ```python
@@ -488,7 +488,7 @@ t0 = time.time()
 y = x @ x.t()
 print("Elapsed:", time.time() - t0, "sec")
 ```
-- GeForce GTX 1650 では ≒1.1 sec、RTX 1650 では ≒3.4 sec が目安。  
+- GTX 1650 では ≒1.1 sec、RTX 1650 では ≒3.4 sec が目安。  
 - CPU 実行との差分を記録し、ロールバック時の比較指標とする。
 
 ### 8-2 WW-Step — VRAM 利用率モニタ
